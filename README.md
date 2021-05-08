@@ -13,7 +13,7 @@ You can run it on Linux as well as on Windows using the command given below. Don
 
 To use this script, run the following command:
 
-```$ python vs_analysis.python```
+```$ python vs_analysis.py```
 
 While executing, it will ask the user to enter a valid number of compounds/top poses to fetch the low binding affinities.
 
