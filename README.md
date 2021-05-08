@@ -24,6 +24,6 @@ Remember to enter a valid number, i.e., the number you enter must be less than o
 
 ***NOTE:
 This script screens for the log files containing the word 'log' in their filenames.
-It is recommended to name your log files along with the name of a compound. That would make the results more presentable and easy to understand.
+It is recommended to name your log files along with the name of a compound. That would make the results more presentable and easy to understand.***
 
 For more information on this script, please visit the following link:
