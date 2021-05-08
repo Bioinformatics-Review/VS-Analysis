@@ -2,7 +2,7 @@
 
 ## Python Script for Virtual Screening Results Analysis
 
-####Introduction
+###Introduction###
 
 This script provides top poses amongst the screened compounds with the lowest binding affinity.
 It parses all log files present in a directory and then fetches the desired (user input) number of compounds with the binding affinity of the top pose given in the log file.
