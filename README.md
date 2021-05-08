@@ -1,4 +1,4 @@
-# VS-Analysis
+# Virtual Screening-Analysis
 
 ## Python Script for Virtual Screening Results Analysis
 
