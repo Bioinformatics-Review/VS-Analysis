@@ -34,10 +34,13 @@ for file_name in file_list:
 			
 			
 			for line in src_file:
-				if '-+' in line:													#looking for binding affinity table
-					nextline = next(src_file)
-					value = nextline[nextline.find("-")+0:].split()[0]					#split at '-' and print binding affinity including '-'
-					file_dict[file_name] = value
+				try:
+					if '-+' in line:													#looking for binding affinity table
+						nextline = next(src_file)
+						value = nextline[nextline.find("-")+0:].split()[0]					#split at '-' and print binding affinity including '-'
+						file_dict[file_name] = value
+				except IndexError:
+					continue
 				
 from collections import OrderedDict
 from operator import itemgetter
