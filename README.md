@@ -30,6 +30,7 @@ Remember to enter a valid number, i.e., the number you enter must be less than o
 This script screens for the log files containing the word 'log' in their filenames.
 It is recommended to name your log files along with the name of a compound. That would make the results more presentable and easy to understand.***
 
+
 For more information on this script, please visit the following links:
 https://bioinformaticsreview.com/20210509/vs-analysis-a-python-script-to-analyze-virtual-screening-results-of-autodock-vina/
 https://bioinformaticsreview.com/20220329/how-to-sort-binding-affinities-based-on-a-cutoff-using-vs_analysis-py-script/
