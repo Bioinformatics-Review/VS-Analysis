@@ -1,6 +1,6 @@
 # Virtual Screening-Analysis
 
-## Python Script for Virtual Screening Results Analysis
+## Python Package for Virtual Screening Results Analysis
 
 ### Introduction
 
